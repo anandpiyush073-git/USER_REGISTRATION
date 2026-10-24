@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+    padding: 600px;
+    position: relative;
+    right: 30px;
+    background-image: url("wall.jpg");
+    background-repeat:round;
+}
+
+#a{
+    height: 40px;
+    width: 380px;
+    border: 2px solid black;
+    border-radius: 10px;
+     font-family: Algerian;
+    font-size: medium;
+    font-weight: bold;
+    font-style: oblique;
+    background-color:maroon;
+}
+
+button{
+    height: 40px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: Algerian;
+    font-size: medium;
+    font-weight: bold;
+    font-style: oblique;
+    background-color:purple;
+}
